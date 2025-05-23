@@ -41,8 +41,7 @@ This project aims to:
 
 ## Dashboard Snapshot (Looker Studio)
 
-> Screenshots and full dashboard are available upon request.  
-> Demo built with simulated business logic and anonymized data.
+![CRM Dashboard Preview](dashboard/screenshot.png)
 
 ---
 
